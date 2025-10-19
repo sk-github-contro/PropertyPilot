@@ -2,7 +2,6 @@
   "name": "property-pilot",
   "version": "1.0.0",
   "description": "Property listings app with React frontend and Express backend",
-  "main": "server/index.js",
   "scripts": {
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "cd server && npm run dev",
